@@ -1,3 +1,9 @@
 # SudokuIsNear
-It's ultra omega perspective projects made by two over geneniuses who calls themsalves as Vovosch and Kyryl.
-You can send here your donations -> wenmoney/sjdfh128937198
+![white_logo_color_background](https://user-images.githubusercontent.com/51381047/158813315-bdd91fb9-5f0c-481a-8033-36b980467ece.jpg)
+
+Modern sudoku game based on Near Protocal blockchain
+
+-buy your own sudoku
+-solve it
+-get unique style after solving sudoku
+-make fun
