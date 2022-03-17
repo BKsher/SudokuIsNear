@@ -4,6 +4,9 @@
 Modern sudoku game based on Near Protocal blockchain
 
 -buy your own sudoku
+
 -solve it
+
 -get unique style after solving sudoku
+
 -make fun
