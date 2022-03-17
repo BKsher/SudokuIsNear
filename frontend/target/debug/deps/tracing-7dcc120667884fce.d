@@ -1,0 +1,13 @@
+/home/kyryl/Рабочий стол/SudokuIsNear/frontend/target/debug/deps/tracing-7dcc120667884fce.rmeta: /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs
+
+/home/kyryl/Рабочий стол/SudokuIsNear/frontend/target/debug/deps/tracing-7dcc120667884fce.d: /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs
+
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/lib.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/macros.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/dispatcher.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/field.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/instrument.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/level_filters.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/span.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/stdlib.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.32/src/subscriber.rs:

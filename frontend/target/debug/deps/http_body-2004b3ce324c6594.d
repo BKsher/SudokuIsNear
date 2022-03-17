@@ -1,0 +1,13 @@
+/home/kyryl/Рабочий стол/SudokuIsNear/frontend/target/debug/deps/http_body-2004b3ce324c6594.rmeta: /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs
+
+/home/kyryl/Рабочий стол/SudokuIsNear/frontend/target/debug/deps/http_body-2004b3ce324c6594.d: /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs /home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs
+
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs:
+/home/kyryl/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs:
